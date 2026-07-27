@@ -43,8 +43,7 @@ A lightweight extension
 
 ## 📥 安裝與使用
 
-1. 從 [Github 社群論壇]
- 下載最新的 `.aix` 檔案。
+1. 從 [Github 社群論壇] 下載最新的 `visoncard.aix` 檔案。
 2. 在 MIT App Inventor 專案中，切換到 **Palette** > **Extension** > **Import extension**。
 3. 將 **VisonCard** 元件拖放到 Viewer 中。
 
@@ -87,6 +86,13 @@ Dynamically upgrades a standard AI2 layout layout component into a professional 
 * **Parameters**: 
   * `layoutComponent` *(AndroidViewComponent)*: The arrangement layout you want to upgrade (e.g., `VerticalArrangement`, `HorizontalArrangement`).
 * **Returns**: *(Object)* - Returns the modified `CardView` instance wrapper. This object is fully compatible with AI2 global variables for memory references.
+
+---
+
+### 🛠️ Step-by-Step Installation
+1. Go to the right sidebar of this repository, click on **[Releases]()**, and download the latest version of `com.luckyh9h.visoncard.aix`.
+2. Click on **Import extension**, choose the downloaded `.aix` file, and click import.
+3. Drag and drop the `VisonCard` component into your Viewer workspace. It will appear at the bottom as a *Non-visible component*.
 
 ---
 
