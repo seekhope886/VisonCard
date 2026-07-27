@@ -101,7 +101,7 @@ Dynamically upgrades a standard AI2 layout layout component into a professional 
 * Developer / Contact: [halin / miracle ho] 
 * Compiled Extension File (.aix): VisonCard.aix (11.9 KB) 
 * Sample Project File (.aia): ui_ext.aia (59.9 KB) 
-Feedback, suggestions, and log reports from your OnDebugLog events are highly welcome below! 
+* Feedback, suggestions, and log reports from your OnDebugLog events are highly welcome below! 
 
 ## 💡 How to Use & Best Practices 
 
