@@ -41,6 +41,15 @@ A lightweight extension
 
 ---
 
+## 📥 安裝與使用
+
+1. 從 [Github 社群論壇]
+ 下載最新的 `.aix` 檔案。
+2. 在 MIT App Inventor 專案中，切換到 **Palette** > **Extension** > **Import extension**。
+3. 將 **VisonCard** 元件拖放到 Viewer 中。
+
+---
+
 # 📦 VisonCard Extension
 
 A lightweight, high-performance extension for MIT App Inventor 2 and Niotron. This extension dynamically wraps any basic native AI2 `Arrangement` (Layout) inside a real Android system **`CardView`**, instantly rendering perfect **physical 3D shadows** and hardware-level rounded corners without any external heavy dependencies.
