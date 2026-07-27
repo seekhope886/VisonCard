@@ -56,7 +56,17 @@ A lightweight extension
 
 # 📦 [FREE] VisonCard Extension
 
-A lightweight, high-performance extension for MIT App Inventor 2 and Niotron. This extension dynamically wraps any basic native AI2 `Arrangement` (Layout) inside a real Android system **`CardView`**, instantly rendering perfect **physical 3D shadows** and hardware-level rounded corners without any external heavy dependencies.
+# VisonCard Extension (v21.0)
+
+Tired of complex CardView extensions with dozens of confusing block setups? **VisonCard** is a dead-simple, zero-config extension that instantly upgrades any native AI2 `Arrangement` into a modern **3D physics-shadow CardView** with just **ONE single block**.
+
+---
+
+## 🚀 Why VisonCard? (Key Highlights)
+* **True 1-Block Setup**: No tedious padding or alignment configuration needed. One block does it all.
+* **Smart Shadow Guard**: Automatically injects a 15px invisible safety boundary (`setUseCompatPadding`). Your beautiful 3D gradient shadows will never get cut off by screen edges!
+* **Auto-Clip bounds**: Perfectly clips all child images and buttons inside the rounded corners automatically.
+* **100% Native & Lightweight**: Built on pure Android system widgets. No heavy dependencies, no crashes.
 
 ---
 
