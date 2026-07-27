@@ -49,7 +49,7 @@ A lightweight extension
 
 ---
 
-# 📦 VisonCard Extension
+# 📦 [FREE] VisonCard Extension
 
 A lightweight, high-performance extension for MIT App Inventor 2 and Niotron. This extension dynamically wraps any basic native AI2 `Arrangement` (Layout) inside a real Android system **`CardView`**, instantly rendering perfect **physical 3D shadows** and hardware-level rounded corners without any external heavy dependencies.
 
