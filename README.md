@@ -21,6 +21,9 @@ A lightweight extension
 | **CardBackgroundColor** | Color | 白色 | 設定卡片容器的背景顏色。 |
 | **CornerRadius** | Float | 24.0 | 設定卡片的圓角半徑（像素）。 |
 | **ShadowElevation** | Float | 12.0 | 設定物理 3D 陰影高度（數值越大陰影越發散）。 |
+<img width="202" height="15" alt="bgcolor" src="https://github.com/user-attachments/assets/632ecc1b-8a0a-4a55-8896-93e247f1d95a" />
+<img width="186" height="28" alt="rad" src="https://github.com/user-attachments/assets/fe9a5e18-0acc-4792-9f27-1dc71727f91f" />
+<img width="186" height="15" alt="shado" src="https://github.com/user-attachments/assets/755928ee-40cc-4872-9b06-49f413b0fb9e" />
 
 ---
 
@@ -31,6 +34,8 @@ A lightweight extension
 
 * **輸入參數**：`layoutComponent` (例如：VerticalArrangement)
 * **傳回值**：`Object` (可使用 AI2 全域變數接住此物件)
+<img width="330" height="72" alt="create" src="https://github.com/user-attachments/assets/448ec9cd-8271-490b-a058-b3f2997f786b" />
+
 
 ---
 
